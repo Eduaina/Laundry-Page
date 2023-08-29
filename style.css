@@ -161,3 +161,6 @@
     justify-content: center;
     color: white;
 }
+.line{
+    line-break: normal;
+}
